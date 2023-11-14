@@ -14,5 +14,3 @@ Thanks when I found this video.
 
 [Hugo for Beginners](https://youtu.be/ZFL09qhKi5I?si=uiwfGICcgkmGPgBg)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZFL09qhKi5I?si=bvNqttxlAZzSRUIt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
