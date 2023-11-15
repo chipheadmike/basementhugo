@@ -1,4 +1,4 @@
 baseURL = 'https://basementmonkey.com/'
 languageCode = 'en-us'
 title = 'Basement Monkey'
-theme = 'lugo'
+theme = 'terminal'
