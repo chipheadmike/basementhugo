@@ -1,4 +1,4 @@
-baseURL = 'https://basementmonkey.com/'
+baseURL = 'https://chipheadmike.github.io/basementhugo/'
 languageCode = 'en-us'
 title = 'Basement Monkey'
 theme = 'lugo'
