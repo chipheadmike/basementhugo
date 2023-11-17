@@ -9,3 +9,5 @@ I created a website called basementmonkey.com to experiment with Google's G Clou
 I recently discovered Hugo and this website is my journey towards creating my first static website.
 
 ![BananaSplit](../bananasplit.jpg)
+
+Just a little extra text for force a build.
